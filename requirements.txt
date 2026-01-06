@@ -1,0 +1,16 @@
+faiss_cpu==1.10.0
+gradio==5.18.0
+langchain==0.3.19
+langchain_community==0.3.18
+matplotlib==3.10.0
+numpy==2.2.3
+openai==1.64.0
+pandas==2.2.3
+python-dotenv==1.0.1
+seaborn==0.13.2
+sentence_transformers==3.4.1
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.48.3
+wordcloud==1.9.4
+zhipuai==2.1.5.20250106

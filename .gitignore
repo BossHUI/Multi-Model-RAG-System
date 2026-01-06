@@ -1,0 +1,140 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Conda
+.conda/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data files (large datasets)
+data/
+*.csv
+*.json
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Processed data and indices
+processed_data/
+*.faiss
+*.index
+
+# Model files (large)
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.pb
+
+# Results and outputs
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.gif
+!README*.md
+
+# Gradio
+.gradio/
+gradio_cached_examples/
+flagged/
+
+# Logs
+*.log
+logs/
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.bak
+*.swp
+notice.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+.directory
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Project specific
+项目文档.pdf
+*.docx
+~$*.docx
+~WRL*.tmp
+
+# Hugging Face cache (optional - uncomment if you want to ignore)
+# .cache/
+# huggingface/
+
+# Weights & Biases (optional)
+.wandb/
+
